@@ -1,2 +1,2 @@
-# .github
-Ensino Intuitivo
+# Ensino Intuitivo
+Repositório dos projetos da empresa.
